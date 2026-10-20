@@ -1,0 +1,16 @@
+# Secrets — NEVER commit
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / OS junk
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
